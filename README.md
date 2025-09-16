@@ -13,8 +13,6 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> 
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"> 
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"> 
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"> 
-<img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"> 
 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> 
@@ -32,14 +30,14 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"> 
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"> 
-<img src="https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white"> 
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
 
 <!-- Databases -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"> 
+<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"> 
+
 
 <!-- Dev Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> 
