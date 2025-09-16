@@ -5,12 +5,54 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 
 ## My Skills
 
+<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"> 
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"> 
-<img src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"> 
+<img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"> 
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"> 
+
+<!-- Backend / Frameworks -->
+<img src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"> 
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"> 
+<img src="https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white"> 
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"> 
+
+<!-- Dev Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
+<img src="https://img.shields.io/badge/CI/CD-007ACC?logo=azuredevops&logoColor=white"> 
+
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"> 
+<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white"> 
+<img src="https://img.shields.io/badge/GCP-FBBC05?logo=google-cloud&logoColor=white">
 
 ## GitHub Stats
 
