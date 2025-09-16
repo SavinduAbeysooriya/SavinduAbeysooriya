@@ -61,7 +61,6 @@
 
 <div align="center">
   <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=SavinduAbeysooriya&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=SavinduAbeysooriya&theme=radical" alt="GitHub Streak" width="48%">
   <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=SavinduAbeysooriya&theme=radical&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" width="48%">
 </div>
 
