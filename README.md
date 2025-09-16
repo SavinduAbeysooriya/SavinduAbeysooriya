@@ -58,7 +58,7 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 <p align="center">
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/savindu-abeysooriya-13082129a/" target="_blank">Savindu Abeysooriya</a> | 
 📧 Email: <a href="mailto:savindu147@gmail.com">savindu147@gmail.com</a> | 
-📘 Facebook: <a href="https://www.linkedin.com/in/savindu-abeysooriya-13082129a/" target="_blank">Savindu</a> | 
+📘 Facebook: <a href="https://www.facebook.com/vi.savi.714" target="_blank">Savindu</a> | 
 📸 Instagram: <a href="https://www.instagram.com/___saviiieeee.__/" target="_blank">Savindu</a> | 
 🎵 TikTok: <a href="https://www.tiktok.com/@_savii____" target="_blank">Savindu</a> | 
 🌐 Website: <a href="http://echobits.malsoftbits.com/" target="_blank">www.yourwebsite.com</a>
