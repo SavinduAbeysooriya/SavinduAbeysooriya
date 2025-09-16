@@ -30,7 +30,6 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"> 
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
@@ -42,15 +41,8 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 <!-- Dev Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"> 
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
-<img src="https://img.shields.io/badge/CI/CD-007ACC?logo=azuredevops&logoColor=white"> 
 
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"> 
-<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white"> 
-<img src="https://img.shields.io/badge/GCP-FBBC05?logo=google-cloud&logoColor=white">
+
 
 ## GitHub Stats
 
