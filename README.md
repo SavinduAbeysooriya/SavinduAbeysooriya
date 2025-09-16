@@ -59,10 +59,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=SavinduAbeysooriya&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=SavinduAbeysooriya&theme=radical&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" width="48%">
-</div>
+<table><tbody><tr border="none"><td width="50%" align="center">
+
+<img alt="Streak Stats" src="https://github-readme-streak-stats-five-roan.vercel.app?user=SavinduAbeysooriya&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=SavinduAbeysooriya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
 
 ---
 
