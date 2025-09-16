@@ -52,9 +52,15 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 <img alt="Streak Stats" src="https://github-readme-streak-stats-five-roan.vercel.app?user=SavinduAbeysooriya&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=SavinduAbeysooriya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
+
 ## Connect with me
 
 <p align="center">
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/savindu-abeysooriya-13082129a" target="_blank">Savindu Abeysooriya</a> | 
-📧 Email: <a href="mailto:savindu@example.com">savindu@example.com</a>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/savindu-abeysooriya-13082129a/" target="_blank">Savindu Abeysooriya</a> | 
+📧 Email: <a href="mailto:savindu147@gmail.com">savindu147@gmail.com</a> | 
+📘 Facebook: <a href="https://www.facebook.com/yourfacebookprofile" target="_blank">Savindu</a> | 
+📸 Instagram: <a href="https://www.instagram.com/yourinstaprofile" target="_blank">Savindu</a> | 
+🎵 TikTok: <a href="https://www.tiktok.com/@yourtiktokprofile" target="_blank">Savindu</a> | 
+🌐 Website: <a href="https://www.yourwebsite.com" target="_blank">www.yourwebsite.com</a>
 </p>
+
